@@ -2,6 +2,14 @@ package main;
 
 public class Network {
 
+	/*
+	 * Henry Loh
+	 * Neural Network for classifying languages
+	 * Does not really work
+	 * To run with graphics, run NetworkGraphics instead.
+	 * 
+	 */
+	
 	static int[] inputs = new int[16*26];
 	static float[] mid = new float[16];
 	static float[][] synapses = new float[2][];

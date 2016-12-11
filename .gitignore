@@ -11,10 +11,13 @@ Java/
 JFrame/
 JNetworking/
 LWJGL_Testing/
-NeuralNetworking/
-!NeuralNetworking/src/
 PGHS_Aquaponics/
 Python/
 RemoteSystemsTempFiles/
 Template_GLFW/
 TestJava/
+
+
+NeuralNetworking/.classpath
+NeuralNetworking/.project
+NeuralNetworking/bin/
